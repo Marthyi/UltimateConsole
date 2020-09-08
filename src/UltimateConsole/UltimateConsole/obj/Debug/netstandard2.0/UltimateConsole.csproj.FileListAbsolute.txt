@@ -1,0 +1,9 @@
+C:\GIT\UltimateConsole\src\UltimateConsole\UltimateConsole\bin\Debug\netstandard2.0\UltimateConsole.deps.json
+C:\GIT\UltimateConsole\src\UltimateConsole\UltimateConsole\bin\Debug\netstandard2.0\UltimateConsole.dll
+C:\GIT\UltimateConsole\src\UltimateConsole\UltimateConsole\bin\Debug\netstandard2.0\UltimateConsole.pdb
+C:\GIT\UltimateConsole\src\UltimateConsole\UltimateConsole\obj\Debug\netstandard2.0\UltimateConsole.csprojAssemblyReference.cache
+C:\GIT\UltimateConsole\src\UltimateConsole\UltimateConsole\obj\Debug\netstandard2.0\UltimateConsole.AssemblyInfoInputs.cache
+C:\GIT\UltimateConsole\src\UltimateConsole\UltimateConsole\obj\Debug\netstandard2.0\UltimateConsole.AssemblyInfo.cs
+C:\GIT\UltimateConsole\src\UltimateConsole\UltimateConsole\obj\Debug\netstandard2.0\UltimateConsole.csproj.CoreCompileInputs.cache
+C:\GIT\UltimateConsole\src\UltimateConsole\UltimateConsole\obj\Debug\netstandard2.0\UltimateConsole.dll
+C:\GIT\UltimateConsole\src\UltimateConsole\UltimateConsole\obj\Debug\netstandard2.0\UltimateConsole.pdb

@@ -1,0 +1,16 @@
+C:\GIT\UltimateConsole\src\UltimateConsole\UltimateConsole.Sample\bin\Debug\netcoreapp3.1\UltimateConsole.Sample.exe
+C:\GIT\UltimateConsole\src\UltimateConsole\UltimateConsole.Sample\bin\Debug\netcoreapp3.1\UltimateConsole.Sample.deps.json
+C:\GIT\UltimateConsole\src\UltimateConsole\UltimateConsole.Sample\bin\Debug\netcoreapp3.1\UltimateConsole.Sample.runtimeconfig.json
+C:\GIT\UltimateConsole\src\UltimateConsole\UltimateConsole.Sample\bin\Debug\netcoreapp3.1\UltimateConsole.Sample.runtimeconfig.dev.json
+C:\GIT\UltimateConsole\src\UltimateConsole\UltimateConsole.Sample\bin\Debug\netcoreapp3.1\UltimateConsole.Sample.dll
+C:\GIT\UltimateConsole\src\UltimateConsole\UltimateConsole.Sample\bin\Debug\netcoreapp3.1\UltimateConsole.Sample.pdb
+C:\GIT\UltimateConsole\src\UltimateConsole\UltimateConsole.Sample\bin\Debug\netcoreapp3.1\UltimateConsole.dll
+C:\GIT\UltimateConsole\src\UltimateConsole\UltimateConsole.Sample\bin\Debug\netcoreapp3.1\UltimateConsole.pdb
+C:\GIT\UltimateConsole\src\UltimateConsole\UltimateConsole.Sample\obj\Debug\netcoreapp3.1\UltimateConsole.Sample.csprojAssemblyReference.cache
+C:\GIT\UltimateConsole\src\UltimateConsole\UltimateConsole.Sample\obj\Debug\netcoreapp3.1\UltimateConsole.Sample.AssemblyInfoInputs.cache
+C:\GIT\UltimateConsole\src\UltimateConsole\UltimateConsole.Sample\obj\Debug\netcoreapp3.1\UltimateConsole.Sample.AssemblyInfo.cs
+C:\GIT\UltimateConsole\src\UltimateConsole\UltimateConsole.Sample\obj\Debug\netcoreapp3.1\UltimateConsole.Sample.csproj.CoreCompileInputs.cache
+C:\GIT\UltimateConsole\src\UltimateConsole\UltimateConsole.Sample\obj\Debug\netcoreapp3.1\UltimateConsole.Sample.csproj.CopyComplete
+C:\GIT\UltimateConsole\src\UltimateConsole\UltimateConsole.Sample\obj\Debug\netcoreapp3.1\UltimateConsole.Sample.dll
+C:\GIT\UltimateConsole\src\UltimateConsole\UltimateConsole.Sample\obj\Debug\netcoreapp3.1\UltimateConsole.Sample.pdb
+C:\GIT\UltimateConsole\src\UltimateConsole\UltimateConsole.Sample\obj\Debug\netcoreapp3.1\UltimateConsole.Sample.genruntimeconfig.cache

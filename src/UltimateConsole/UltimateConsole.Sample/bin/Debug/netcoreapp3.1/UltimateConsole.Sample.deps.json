@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "UltimateConsole.Sample/1.0.0": {
+        "dependencies": {
+          "UltimateConsole": "1.0.0"
+        },
+        "runtime": {
+          "UltimateConsole.Sample.dll": {}
+        }
+      },
+      "UltimateConsole/1.0.0": {
+        "runtime": {
+          "UltimateConsole.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UltimateConsole.Sample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UltimateConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
