@@ -13,17 +13,19 @@ namespace UltimateConsole.Sample
 
     class Program
     {
-        const int ConsoleSize = 20;
+        static int ConsoleSize;
 
         static async Task Main(string[] args)
         {
-            ActionBlock<Operation> action = new ActionBlock<Operation>(ActionOperationAsync, new ExecutionDataflowBlockOptions() { MaxDegreeOfParallelism = 10 });
+            ConsoleSize = Console.WindowWidth - 2;
+
+            var action = new ActionBlock<Operation>(ActionOperationAsync, new ExecutionDataflowBlockOptions() { MaxDegreeOfParallelism = 50 });
 
             var rnd = new Random();
 
             SafeConsole.WriteLine($"Start program", new ConsoleOptions() { Left = 0, Top = 20 });
 
-            for (int i = 0; i < 100; i++)
+            for (int i = 0; i < 1000; i++)
             {
                 DisplayOperation(i, ConsoleColor.Red);
                 var operation = new Operation() { Id = i, sleepDuration = rnd.Next(5000) };
